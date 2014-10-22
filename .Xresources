@@ -1,5 +1,5 @@
 xterm*metaSendsEscape:    true
-xterm*VT100.geometry:     120x25
+xterm*VT100.geometry:     80x25
 xterm*faceName:           Terminus:style=Regular:size=14
 !xterm*font:              -*-dina-medium-r-*-*-16-*-*-*-*-*-*-*
 xterm*dynamicColors:      true
@@ -13,3 +13,16 @@ xterm*rightScrollBar:     true
 xterm*jumpScroll:         true
 xterm*multiScroll:        true
 xterm*toolBar:            false
+yeahconsole*consoleHeight: 20
+yeahconsole*aniDelay: 0
+yeahconsole*stepSize: 10
+yeahconsole*faceName: ProFontWindows:style=Regular
+yeahconsole*faceSize: 9
+
+yeahconsole*term: xterm
+yeahconsole*background: #4D4D4D
+yeahconsole*foreground: #E0E0E0
+yeahconsole*font: -misc-*-medium-r-normal-*-15-*-*-*-*-*-*-*
+yeahconsole*cursorBlink: true
+yeahconsole*handleColor: #610000
+
